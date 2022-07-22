@@ -44,6 +44,10 @@ a {
     text-decoration: none;
 }
 
+a {
+    color:black ;
+}
+
 a:hover {
     color:chartreuse;
     font-size: 150%;
@@ -126,8 +130,16 @@ p {
     color: #000000;
     text-align: center;
 }
+.projects {
+    padding: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:rgb(255, 77, 0);
+    color: #000000;
+    text-align: center;
+}
+
 img {
-    width: 100%;
+    width: 50%;
 }
 .end {
     font-size: 20px;

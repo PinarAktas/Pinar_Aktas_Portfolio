@@ -39,6 +39,25 @@ After the code modification, my study appeared like demo.png
 
 "C:\Users\Lenovo\Desktop\Weekly Project\2\Pinar_Aktas_Portfolio\assets\images\demo.png"
 
+## Projects
+
+Project1 : Meals and Coctails Recipes
+    https://jamshedsadullaev.github.io/Peculiar-terror/
+    https://github.com/JamshedSadullaev/Peculiar-terror
+
+Challange 6: Work Day Scheduler
+    https://pinaraktas.github.io/Work_Day_Schedular/
+    https://github.com/PinarAktas/Work_Day_Schedular
+
+Challenge 5: Quiz App
+    https://pinaraktas.github.io/Quiz_App/
+    https://github.com/PinarAktas/Quiz_App
+
+Challenge 4: Password Generator
+    https://pinaraktas.github.io/Password_Generator_PA/
+    https://github.com/PinarAktas/Password_Generator_PA
+
+
 ## Webpage
 
 At least web page is https://pinaraktas.github.io/Pinar_Aktas_Portfolio/
