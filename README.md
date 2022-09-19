@@ -41,6 +41,10 @@ After the code modification, my study appeared like demo.png
 
 ## Projects
 
+Project2 : PawDate
+    https://agile-reef-42699.herokuapp.com/discover
+    https://github.com/summerjay0401/green-dolphins-project
+
 Project1 : Meals and Coctails Recipes
     https://jamshedsadullaev.github.io/Peculiar-terror/
     https://github.com/JamshedSadullaev/Peculiar-terror
