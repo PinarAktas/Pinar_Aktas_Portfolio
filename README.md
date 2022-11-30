@@ -68,3 +68,4 @@ At least web page is https://pinaraktas.github.io/Pinar_Aktas_Portfolio/
 
 ## Screenshots
 
+![](Assets/images/Screenshot1.png)
