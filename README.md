@@ -65,3 +65,6 @@ Challenge 4: Password Generator
 ## Webpage
 
 At least web page is https://pinaraktas.github.io/Pinar_Aktas_Portfolio/
+
+## Screenshots
+
